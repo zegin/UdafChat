@@ -1,8 +1,10 @@
 # UdafChat
 Chat with laravel pusher and vuejs
 
-##Run
+## Run
+
 Run server with
-'''bash
+
+```bash
   php artisan serve
-'''
+```
